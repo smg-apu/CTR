@@ -1,5 +1,5 @@
 # CTR
-Neural Networks for Online Advertising: Predicting Post-Click Sales with High Accuracy
+Deep Neural Networks for Online Advertising: Predicting Post-Click Sales with High Accuracy
 
 Introduction: Digital marketing plays a pivotal role in modern advertising, with businesses leveraging data-driven strategies to enhance user engagement. Click-through rate (CTR) is a key metric used to evaluate the effectiveness of advertisements by measuring the proportion of users who interact with a given ad.
 Conventional machine learning methods, like logistic regression and decision trees, have been employed for click-through rate prediction; nevertheless, they frequently inadequately capture intricate interactions among features.  This study aims to examine the effectiveness of deep learning in improving the accuracy of click-through rate predictions.
